@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HKM Hyderabad</string>
+    <string name="facebook_app_id">949821155983895</string>
+    <string name="facebook_client_token">e6e226a46fb85d51e2f44b4f945b6879</string>
+    <string name="fb_login_protocol_scheme">fb949821155983895</string>
+</resources>
